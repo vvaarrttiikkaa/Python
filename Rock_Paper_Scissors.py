@@ -11,7 +11,7 @@ while(loop>1):
  if(choice2==2):
   print("Computer choice- Scissors")
  if(choice2==3):
-  print("Computer choice- Paper")
+  print("Computer choice- Paper"),jsbvgsfjgkhg,
  if(choice1==1):
   print("Your choice- Rock")
  if(choice1==2):
