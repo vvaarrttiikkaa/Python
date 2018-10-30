@@ -8,6 +8,7 @@ while(loop>1):
  choice1 = int(input("Enter your choice as 1 for Rock, 2 for Scissors and 3 for Paper:"))
  if(choice2==1):
   print("Computer choice- Rock")
+  //by vartika
  if(choice2==2):
   print("Computer choice- Scissors")
  if(choice2==3):
